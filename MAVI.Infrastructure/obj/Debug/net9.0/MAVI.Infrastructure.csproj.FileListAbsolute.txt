@@ -15,3 +15,21 @@ C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Infrastructure\bin\Debug\n
 C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Infrastructure\bin\Debug\net9.0\MAVI.Domain.pdb
 C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Infrastructure.csproj.AssemblyReference.cache
 C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Inf.F1801482.Up2Date
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\bin\Debug\net9.0\MAVI.Infrastructure.deps.json
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\bin\Debug\net9.0\MAVI.Infrastructure.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\bin\Debug\net9.0\MAVI.Infrastructure.pdb
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\bin\Debug\net9.0\MAVI.Application.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\bin\Debug\net9.0\MAVI.Domain.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\bin\Debug\net9.0\MAVI.Application.pdb
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\bin\Debug\net9.0\MAVI.Domain.pdb
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Infrastructure.csproj.AssemblyReference.cache
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Infrastructure.AssemblyInfoInputs.cache
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Infrastructure.AssemblyInfo.cs
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Infrastructure.sourcelink.json
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Inf.F1801482.Up2Date
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Infrastructure.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\refint\MAVI.Infrastructure.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\MAVI.Infrastructure.pdb
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Infrastructure\obj\Debug\net9.0\ref\MAVI.Infrastructure.dll

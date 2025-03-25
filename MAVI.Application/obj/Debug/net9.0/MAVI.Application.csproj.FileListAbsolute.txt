@@ -13,3 +13,19 @@ C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Application\bin\Debug\net9
 C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Application\bin\Debug\net9.0\MAVI.Domain.pdb
 C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.Application.csproj.AssemblyReference.cache
 C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.App.94770ED5.Up2Date
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\bin\Debug\net9.0\MAVI.Application.deps.json
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\bin\Debug\net9.0\MAVI.Application.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\bin\Debug\net9.0\MAVI.Application.pdb
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\bin\Debug\net9.0\MAVI.Domain.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\bin\Debug\net9.0\MAVI.Domain.pdb
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.Application.csproj.AssemblyReference.cache
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.Application.AssemblyInfoInputs.cache
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.Application.AssemblyInfo.cs
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.Application.csproj.CoreCompileInputs.cache
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.Application.sourcelink.json
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.App.94770ED5.Up2Date
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.Application.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\refint\MAVI.Application.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\MAVI.Application.pdb
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Application\obj\Debug\net9.0\ref\MAVI.Application.dll

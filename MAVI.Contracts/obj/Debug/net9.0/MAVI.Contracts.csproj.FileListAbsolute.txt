@@ -9,3 +9,15 @@ C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0
 C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\refint\MAVI.Contracts.dll
 C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\MAVI.Contracts.pdb
 C:\Users\alberto.mitroi\source\repos\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\ref\MAVI.Contracts.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\bin\Debug\net9.0\MAVI.Contracts.deps.json
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\bin\Debug\net9.0\MAVI.Contracts.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\bin\Debug\net9.0\MAVI.Contracts.pdb
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\MAVI.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\MAVI.Contracts.AssemblyInfoInputs.cache
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\MAVI.Contracts.AssemblyInfo.cs
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\MAVI.Contracts.csproj.CoreCompileInputs.cache
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\MAVI.Contracts.sourcelink.json
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\MAVI.Contracts.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\refint\MAVI.Contracts.dll
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\MAVI.Contracts.pdb
+D:\probleme rezolvate\SE\MAVIConnect\MAVI.Contracts\obj\Debug\net9.0\ref\MAVI.Contracts.dll
